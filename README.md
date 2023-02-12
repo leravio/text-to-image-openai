@@ -34,7 +34,7 @@ You can now access the server at http://localhost:5000
 
 Switch to the client folder
 
-    cd ../client    
+    cd client    
 
 Install all the dependencies using npm
 
@@ -49,17 +49,3 @@ Start the local development client
     npm start
 
 You can now access the client at http://localhost:3000
-
-## Prerequisites
-
-Node.js and npm installed on your machine
-A basic understanding of React
-
-## Built With
-
-1. React
-2. Node JS
-
-## Author
-
-[Leravio](https://leravio.com)
