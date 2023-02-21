@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "index",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -7,7 +7,7 @@
     "node": "14.x"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
