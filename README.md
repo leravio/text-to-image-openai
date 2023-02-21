@@ -13,14 +13,18 @@ Clone the repository
 Switch to the repo folder
 
     cd text-to-image-openai
-    
+
 Switch to the server folder
 
-    cd server    
+    cd server
 
 Install all the dependencies using npm
 
     npm install
+
+Add package.json with this code
+
+    "type": "module"
 
 Copy the example env file and make the required configuration changes in the .env file
 
@@ -34,7 +38,7 @@ You can now access the server at http://localhost:5000
 
 Switch to the client folder
 
-    cd client    
+    cd client
 
 Install all the dependencies using npm
 
