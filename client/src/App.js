@@ -14,7 +14,7 @@ function App() {
     setError("");
 
     await axios
-      .post(`http://localhost:5000`, {
+      .post(process.env.REACT_APP_BACKEND_URL, {
         prompt,
       })
       .then((response) => setData(response.data.image_url))
