@@ -1,6 +1,6 @@
 # Text to Image Open AI
 
-This project implements [Image Generation](https://platform.openai.com/docs/guides/images) on OpenAI API by using Node JS as backend with React JS as frontend.
+This project implements [Image Generation](https://platform.openai.com/docs/guides/images) on OpenAI API by using Node JS as backend with React JS as frontend. To learn more about this code, read this article [How to create text to image with OpenAI](https://leravio.com/blog/membuat-text-to-image-app-dengan-openai/)
 
 <img width="674" alt="Screenshot_20230212_193509" src="https://user-images.githubusercontent.com/49724190/218311386-7727e248-967e-43d3-b40e-3a2f125ca107.png">
 
